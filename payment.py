@@ -1,1 +1,6 @@
+def process_payment(): return 'Payment ERROR'
+def process_payment(): return 'Payment OK'
+def process_payment(): return 'Payment OK'
+def process_payment(): return 'Payment OK'
+def process_payment(): return 'Payment OK'
 def process_payment(): return 'Payment OK'
