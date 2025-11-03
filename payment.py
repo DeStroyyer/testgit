@@ -1,1 +1,1 @@
-def process_payment(): return 'Payment  OK'
+def process_payment(): return 'Payment OK'
